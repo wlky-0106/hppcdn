@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://hpp.nekoz.top/hpp/admin/$1"}
+      {"src": "/(.*)","dest": "https://1.wlky.workers.devhpp/admin/$1"}
   ]
 }
